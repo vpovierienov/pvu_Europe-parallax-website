@@ -19,22 +19,22 @@ body, html {
 }
 
 .img1 {
-  background-image: url('../image1.jpg');
+  background-image: url('image1.jpg');
   min-height: 400px;
 }
 
 .img2 {
-  background-image: url('../image2.jpg');
+  background-image: url('image2.jpg');
   min-height: 400px;
 }
 
 .img3 {
-  background-image: url('../image3.jpg');
+  background-image: url('image3.jpg');
   min-height: 400px;
 }
 
 .img4 {
-  background-image: url('../image4.jpg');
+  background-image: url('image4.jpg');
   min-height: 400px;
 }
 
